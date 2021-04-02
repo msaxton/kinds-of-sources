@@ -1,4 +1,4 @@
-## A Primer on Primary Sources
+## Three Kinds of Sources for Academic Research
 
 
 ## Hello, I'm Micah.
@@ -9,19 +9,70 @@
 micah.saxton@tufts.edu
 
 
-## Defining Primary Sources
+## Three kinds of sources used for academic research
+1. Primary Sources
+2. Secondary Sources
+3. Reference Sources
+
+
+## Primary Sources
 What is a primary source?
 
-A _primary source_ is a document, image, or artifact that provides first-hand testimony or direct evidence concerning a historical event and/or topic.
+A _primary source_ is a document, image, artifact, or dataset that provides first-hand testimony or direct evidence concerning the object of research.
 
-How is it different from a secondary source?
+### Examples of primary sources
+* Diaries
+* Correspondence
+* Government documents
+* Newspapers
+* Material objects
+* Survey data
 
-Why is this distinction important?
-
-What are some examples of primary sources?
+Can you think of other examples of primary sources?
 
 
-## Finding Primary Sources
+## Secondary Sources
+What is a secondary source?
+
+A _secondary source_ is a scholarly discussion based on primary sources. Typically, a secondary source contains original research.
+
+## Examples of Secondary Sources
+* Books
+* Journal articles
+* Scientific reports
+* Lectures
+* Podcasts
+
+Can you think of other examples of secondary sources?
+
+
+### Reference Sources
+What is a reference source?
+
+A _reference source_ is a book or article that summarizes and synthesizes secondary sources. Typically, a reference source does not contain original research.
+
+### Examples of Reference Sources
+* Encyclopedias
+* Handbooks
+* Annotated bibliographies
+* Literature reviews
+* Textbooks
+
+Can you think of other examples of reference sources?
+
+
+## However...
+The differences between these kinds of sources is in the perspective of the researcher.
+
+
+### BEAM model for using sources
+* Background: use a source to provide general information to explain the topic.
+* Exhibit: use a source as evidence or examples to analyze.
+* Argument: use a source to engage its argument.
+* Method: use a source’s way of analyzing an issue to apply to your own issue.
+
+
+### Excursus: Finding Primary Sources
 
 ### Primary source databases
 
@@ -31,14 +82,9 @@ What are some examples of primary sources?
     * What time period are you focused on?
     * What languages are you looking for?
 
-### Suggested databases
-
-
 ### Primary sources in library catalogs
 * [Tufts catalog](https://tufts-primo.hosted.exlibrisgroup.com/primo-explore/search?search_scope=TUFTS_ALMA&sortby=rank&vid=01TUN&lang=en_US)
 * [Libraries worldwide](https://tufts.on.worldcat.org/discovery)
-
-Keyword searching and subject term searching
 
 #### Subject terms for finding primary sources
 * Archival Resources
@@ -51,33 +97,3 @@ Keyword searching and subject term searching
 * Pamphlets
 * Personal narratives
 * Sources
-
-
-## Using Primary Sources
-
-### BEAM model for using sources
-* Background: use a source to provide general information to explain the topic.
-* Exhibit: use a source as evidence or examples to analyze.
-* Argument: use a source to engage its argument.
-* Method: use a source’s way of analyzing an issue to apply to your own issue.
-
-### Evaluating Primary Sources
-* What makes a primary source useful?
-
-* Who was the author or creator?
-
-* ​What biases or assumptions may have influenced the author or creator?
-
-* What is the origin of the primary source?
-
-* Has the source been edited or translated, or altered in some way from the original?
-
-* What questions could be answered about the time period by using this source?
-
-* Does your understanding of the source fit with other scholars’ interpretations, or does it challenge their argument?
-
-
-## Finally...
-Don't be shy about asking for help
-* [Chat with a librarian](https://tischlibrary.tufts.edu/)
-* micah.saxton@tufts.edu

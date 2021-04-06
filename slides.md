@@ -72,6 +72,42 @@ The differences between these kinds of sources is in the perspective of the rese
 * Method: use a source’s way of analyzing an issue to apply to your own issue.
 
 
+### In-class review
+
+What is a primary source?
+
+Examples of primary sources?
+
+What is a secondary source?
+
+Examples of secondary sources?
+
+### Examples
+
+Imagine that you are studying the rise of the Black Lives Matter movement. Consider each of the following sources, is it a primary source or a secondary source? Why or why not?
+
+* [Orejuela, Fernando, and Shonekan, Stephanie. _Black Lives Matter & Music : Protest, Intervention, Reflection_. Activist Encounters in Folklore and Ethnomusicology. 2018.](https://tufts-primo.hosted.exlibrisgroup.com/permalink/f/5s9rbq/01TUN_ALMA21192338360003851)
+
+* [A collection of tweets with the hashtag #blacklivesmatter](https://twitter.com/hashtag/blacklivesmatter?lang=en)
+
+* [Browne, Rembert. "Forerunners: The Roots of Black Lives Matter in the Black Power Movement and the Black Panthers." _New York Times_, Nov 27 2016](https://login.ezproxy.library.tufts.edu/login?url=https://www-proquest-com.ezproxy.library.tufts.edu/historical-newspapers/forerunners/docview/2310715634/se-2?accountid=14434)
+
+* [Shapiro, T. Rees. "Ferguson demonstration snarls D.C. traffic on Interstate 395." Washington Post, Nov 30 2014](https://www-washingtonpost-com.ezproxy.library.tufts.edu/local/trafficandcommuting/ferguson-demonstration-snarls-dc-traffic-on-interstate-395/2014/11/30/3ea93216-78c6-11e4-b821-503cc7efed9e_story.html)
+
+* [Rickford, Russell. "Black Lives Matter: Toward a Modern Practice of Mass Struggle." New Labor Forum 25, no. 1 (2016): 34-42](http://ezproxy.library.tufts.edu/login?url=https://www.jstor.org/stable/26419959)
+
+* [Wullum, Karolina. "Fatal Police Shootings in the US: Fatal Police Shootings in the US since 2015 with additional US census data" Version 1. 2016.](https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us/version/1)
+
+
+
+### Discussion
+Why do we make a distinction between primary and secondary sources?
+
+Primary and secondary sources have different uses.
+
+Primary and secondary sources are evaluated differently.
+
+
 ### Excursus: Finding Primary Sources
 
 ### Primary source databases

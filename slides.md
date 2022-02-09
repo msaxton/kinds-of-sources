@@ -7,13 +7,13 @@
 micah.saxton@tufts.edu
 
 
-## Three kinds of sources used for academic research
+### Three kinds of sources used for academic research
 1. Primary Sources
 2. Secondary Sources
 3. Reference Sources
 
 
-## Primary Sources
+### Primary Sources
 What is a primary source?
 
 A _primary source_ is a document, image, artifact, or dataset that provides first-hand testimony or direct evidence concerning the object of research.
@@ -27,23 +27,6 @@ A _primary source_ is a document, image, artifact, or dataset that provides firs
 * Survey data
 
 Can you think of other examples of primary sources?
-
-### Evaluating Primary Sources
-
-* What do you know about the creator(s)?
-
-* What biases are at work in the source?
-
-* Who is the original audience of the sources?
-
-* What is the original significance of the source?
-
-* Has the source been altered in any way from its original form?
-
-* How does the source inform your understanding of your research topic?
-
-* How has the source been used by other scholars? Do you agree with scholarly interpretations of this source?
-
 
 ### Finding Primary Sources
 
@@ -68,3 +51,19 @@ Can you think of other examples of primary sources?
 * Pamphlets
 * Personal narratives
 * Sources
+
+### Evaluating Primary Sources
+
+* What do you know about the creator(s)?
+
+* What biases are at work in the source?
+
+* Who is the original audience of the sources?
+
+* What is the original significance of the source?
+
+* Has the source been altered in any way from its original form?
+
+* How does the source inform your understanding of your research topic?
+
+* How has the source been used by other scholars? Do you agree with scholarly interpretations of this source?

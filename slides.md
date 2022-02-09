@@ -28,6 +28,7 @@ A _primary source_ is a document, image, artifact, or dataset that provides firs
 
 Can you think of other examples of primary sources?
 
+
 ### Finding Primary Sources
 
 1. Primary source databases (often "unpublished" primary sources)
@@ -51,6 +52,7 @@ Can you think of other examples of primary sources?
 * Pamphlets
 * Personal narratives
 * Sources
+
 
 ### Evaluating Primary Sources
 
